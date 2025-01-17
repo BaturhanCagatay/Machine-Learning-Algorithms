@@ -1,0 +1,15 @@
+Nitelik1,Nitelik2,Nitelik3,Sınıf
+a,70,Doğru,S1
+a,90,Doğru,S2
+a,85,Yanlış,S2
+a,95,Yanlış,S2
+a,70,Yanlış,S1
+b,90,Doğru,S1
+b,75,Yanlış,S1
+b,65,Doğru,S1
+b,75,Yanlış,S1
+c,80,Doğru,S2
+c,70,Doğru,S2
+c,80,Yanlış,S1
+c,70,Yanlış,S1
+c,96,Yanlış,S1
