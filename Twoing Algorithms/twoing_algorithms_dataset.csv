@@ -1,0 +1,12 @@
+Income,Education,Sector,Satisfaction
+Normal,Middle,IT,Yes
+Large,Primary,IT,Yes
+Small,Primary,Construction,Yes
+Large,Middle,Construction,Yes
+Small,Middle,Construction,Yes
+Large,High School,Construction,Yes
+Small,High School,Construction,Yes
+Large,Middle,IT,No
+Small,Middle,IT,No
+Large,High School,IT,No
+Small,High School,IT,No
