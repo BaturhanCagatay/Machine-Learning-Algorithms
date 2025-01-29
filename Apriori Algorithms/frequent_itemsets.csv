@@ -1,0 +1,9 @@
+Frequent Itemsets
+makarna
+şeker
+peynir
+ekmek
+"peynir, ekmek"
+"peynir, makarna"
+"makarna, ekmek"
+"peynir, makarna, ekmek"

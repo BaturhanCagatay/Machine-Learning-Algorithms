@@ -1,0 +1,13 @@
+Antecedent,Consequent,Confidence
+,makarna,0.80
+,peynir,0.80
+,ekmek,0.80
+peynir,ekmek,0.75
+ekmek,peynir,0.75
+peynir,makarna,1.00
+makarna,peynir,1.00
+makarna,ekmek,0.75
+ekmek,makarna,0.75
+"peynir, makarna",ekmek,0.75
+"peynir, ekmek",makarna,1.00
+"makarna, ekmek",peynir,1.00
